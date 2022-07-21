@@ -68,7 +68,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See [<b>LICENSE</b>](https://github.com/jotslo/bettercensoring/LICENSE) for more information.
+Distributed under the GNU General Public License v2.0. See [<b>LICENSE</b>](https://github.com/jotslo/bettercensoring/LICENSE) for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
