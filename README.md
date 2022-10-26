@@ -18,6 +18,8 @@
     ·
     <a href="https://discord.gg/W2EeuSv">Request Feature</a>
   </p>
+  
+   <img src="assets/bc.gif" alt="Logo" width="464" height="306">
 </div>
 
 
