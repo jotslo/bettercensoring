@@ -309,7 +309,7 @@ async def get_message_links(message):
 
 async def is_admin(message, guild_settings):
     # return true if user is admin, otherwise return error
-    if message.author.guild_permissions.value == 2147483647:
+    if message.author.guild_permissions.administrator:
         return True
 
     await send_embed(
