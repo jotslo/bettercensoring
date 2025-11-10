@@ -26,6 +26,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+⚠️ The original domain has now been taken over. It is <b>not</b> recommended to visit <b>censoring.io</b>.
 
 BetterCensoring is a Discord bot that can censor given phrases, attempted bypasses such as use of similar unicode characters and zalgo, and offers unique, highly customisable features like the option for messages to be reposted with inappropriate content removed.
 
