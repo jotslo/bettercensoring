@@ -12,7 +12,7 @@
 <h3 align="center">BetterCensoring</h3>
 
   <p align="center">
-    <a href="https://censoring.io/commands">Commands</a>
+    <a href="https://bettercensoring.github.io/commands">Commands</a>
     ·
     <a href="https://github.com/jotslo/bettercensoring/issues">Report Bug</a>
     ·
@@ -27,7 +27,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-BetterCensoring is a verified, open-source Discord bot that can censor given phrases, attempted bypasses such as use of similar unicode characters and zalgo, and offers unique, highly customisable features like the option for messages to be reposted with inappropriate content removed. BetterCensoring is currently being used in over 1,000 servers, which contain over 200,000 users.
+BetterCensoring is a Discord bot that can censor given phrases, attempted bypasses such as use of similar unicode characters and zalgo, and offers unique, highly customisable features like the option for messages to be reposted with inappropriate content removed.
+
+BetterCensoring was formerly used by 1,000+ communities, actively moderating 200,000+ users. Released in 2020, support ended for the bot in April 2025.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -35,7 +37,7 @@ BetterCensoring is a verified, open-source Discord bot that can censor given phr
 <!-- GETTING STARTED -->
 ## Getting Started
 
-* To use BetterCensoring, you can add the bot to your server [here](https://invite.censoring.io).
+* To use BetterCensoring, you can add the bot to your server ~~here~~.
 * Alternatively, you can run the bot locally, for which you will need the dependencies listed below.
 
   * <b>Python 3.8</b>
